@@ -1,0 +1,9 @@
+{
+	"name": "TrainingDF1Jam",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7a7aaee7-87b5-48df-91ad-86f7ad2cf526",
+		"tenantId": "1058cf00-4b90-4e70-b1ff-3b42e7c48254"
+	}
+}
